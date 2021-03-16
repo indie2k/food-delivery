@@ -1,5 +1,7 @@
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
+![image](https://user-images.githubusercontent.com/31723044/111271317-61331c80-8674-11eb-8a6d-3ea398c230cb.png)
+
 # 예제 - 음식배달 (리포트)
 
 본 예제는 MSA/DDD/Event Storming/EDA 를 포괄하는 분석/설계/구현/운영 전단계를 커버하도록 구성한 예제입니다.
